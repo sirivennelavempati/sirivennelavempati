@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Real world Data science/ Data Analyst challenges
 - 💬 Ask me about My DataScience projects
 - 📫 How to reach me: sirivennelavempati@gmail.com
-- 😄 Pronouns: SI-ree VEN-nel-ah
+- 😄 pronunciation: SI-ree VEN-nel-ah
 - ⚡ Fun fact: I love Board games ♟ , Traveling 🧳 , listening 👂 Songs
 <!--
 **sirivennelavempati/sirivennelavempati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
