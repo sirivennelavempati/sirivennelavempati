@@ -7,6 +7,7 @@
 - 📫 How to reach me: sirivennelavempati@gmail.com
 - 😄 pronunciation: SI-ree VEN-nel-ah
 - ⚡ Fun fact: I love Board games ♟ , Traveling 🧳 , listening 👂 Songs
+- 💬 Please reach out with any questions or opportunities—> Looking forward to connecting
 <!--
 **sirivennelavempati/sirivennelavempati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
