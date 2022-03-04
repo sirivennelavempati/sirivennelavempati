@@ -1,9 +1,9 @@
 
-- 👋 Hi I’m Sirivennela
-- 🌱 I’m currently learning data science at Bloom Institute of Technology 
+- 👋 Hi I’m Sirivennela 
 - 👀 I’m interested in DataScience, Data Analyst and Data Engineering roles
 - 👯 I’m looking to collaborate on Real world Data science/ Data Analyst challenges
 - 💬 Ask me about My DataScience projects
+- 🌱 I’m currently learning data science at Bloom Institute of Technology
 - 📫 How to reach me: sirivennelavempati@gmail.com
 - 😄 pronunciation: SI-ree VEN-nel-ah
 - ⚡ Fun fact: I love Board games ♟ , Traveling 🧳 , listening 👂 Songs
